@@ -27,8 +27,8 @@ def sum_evens(a_list):
 
     
 
-sequence = fib(4000000)
-print(sequence)
+sequence = fib(10)
+
 total = sum_evens(sequence)
 print(total)
 
